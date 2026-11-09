@@ -1,0 +1,9 @@
+# Copy to terraform.tfvars and fill in your values.
+# cp terraform.tfvars.example terraforms.tfvars
+
+subscription_id = "00000000-0000-0000-0000-000000000000"
+location        = "francecentral"
+
+# Optional: values below are examples, see variables.tf for the defaults.
+# project                  = "campus-loan"
+# environment              = "dev"
