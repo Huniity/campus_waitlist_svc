@@ -1,1 +1,1 @@
-This is my Waitlist Service for my Device Loan Campus App
+This is my Waitlist Service for my Campus App.
